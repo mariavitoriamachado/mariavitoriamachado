@@ -1,24 +1,51 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=843DD7&height=180&section=header&text=Hi, I'm Maria Vitória Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=843DD7&size=35&center=true&vCenter=true&width=1000&lines=_Enthusiast+of+the+best+web+development+technologies!;Be+Welcome!💜🤩)](https://git.io/typing-svg)
 
-<!--# Maria Vitória Silva 🚀
-<h2>Get in touch ⇣
+<br><br>
 
-#
+## 🛠 &nbsp;Technologies and Tools
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Xavi002)](https://github.com/mariavitoriasilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/maria-vitória-silva-dos-santos-47b8941a8)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogomartins200214@gmail.com)](mailto:mariavitoriasilvast@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/diogomartins.14//)](https://www.instagram.com/mariavitoriasilva_/)
-**mariavitoriasilva/mariavitoriasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+x
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![styled-components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styled-components)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mariavitoriasilva&show_icons=true&theme=midnight-purple" alt="mariavitoriasilva's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=midnight-purple" alt="mariavitoriasilva's most languages"/>
+</p>
+
+<br><br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=mariavitoriasilva&theme=redical&hide_border=true&area=true)
+
+<br></br>
+## Social Links
+
+
+<a href="https://www.linkedin.com/in/maria-vit%C3%B3ria-silva-47b8941a8" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mariavitoriasilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href= "mailto:devmariavitoria@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mariavitoriasilva-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=843DD7&height=120&section=footer"/>
+ 
+
