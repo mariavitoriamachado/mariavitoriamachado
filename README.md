@@ -3,10 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C73774&size=30&center=true&vCenter=true&width=1000&lines=Enthusiast+of+the+best+web+development+technologies!💜;Be+Welcome!🤩)](https://git.io/typing-svg)
 
 <br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariavitoriasilva&color=C73774" alt="Profile views" /> </p>
+<br><br>
 
 ## 🛠 &nbsp;Technologies and Tools
 
-x
+
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
