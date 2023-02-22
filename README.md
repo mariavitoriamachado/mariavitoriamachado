@@ -29,7 +29,7 @@
 ## Social Links
 
 
-<a href="https://www.linkedin.com/in/maria-vit%C3%B3ria-silva-47b8941a8" target="_blank">
+<a href="https://www.linkedin.com/in/mariavitoriasilvas/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mariavitoriasilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href= "mailto:devmariavitoria@gmail.com" target="_blank">
