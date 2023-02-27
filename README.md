@@ -45,9 +45,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=radical" alt="mariavitoriasilva's most languages"/>
 </p>
 
-<br><br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=mariavitoriasilva&theme=redical&hide_border=true&area=true)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C73774&&height=120&section=footer"/>
  
 
