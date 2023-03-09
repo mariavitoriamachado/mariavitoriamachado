@@ -41,8 +41,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mariavitoriasilva&show_icons=true&theme=radical" alt="mariavitoriasilva's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=radical" alt="mariavitoriasilva's most languages"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariavitoriasilva&show_icons=true&theme=radical" alt="mariavitoriasilva's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=radical" alt="mariavitoriasilva's most languages"/>
 </p>
 
 
