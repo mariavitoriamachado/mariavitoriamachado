@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050F2C&&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=394E6A&&height=120&section=header"/>
  
  <h1>Hi  👋, I'm Maria Vitória Silva</h1>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=30&center=true&vCenter=true&width=1000&lines=Enthusiast+of+the+best+web+development+technologies!💜;Be+Welcome!🤩)](https://git.io/typing-svg)
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariavitoriasilva&color=050F2C" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariavitoriasilva&color=394E6A" alt="Profile views" /> </p>
 <br><br>
 
 ## 🛠 &nbsp;Technologies and Tools
@@ -29,7 +29,7 @@
 ## Social Links
 
 
-<a href="https://www.linkedin.com/in/mariavitoriasilvas/" target="_blank">
+<a href="https://www.linkedin.com/in/thismaria/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mariavitoriasilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href= "mailto:devmariavitoria@gmail.com" target="_blank">
@@ -41,10 +41,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariavitoriasilva&show_icons=true&theme=algolia" alt="mariavitoriasilva's stats"/>
-<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=algolia" alt="mariavitoriasilva's most languages"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariavitoriasilva&show_icons=true&theme=algolia&bg_color=394E6A" alt="mariavitoriasilva's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariavitoriasilva&layout=compact&theme=algolia&bg_color=394E6A" alt="mariavitoriasilva's most languages"/>
 </p>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=050F2C&&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=394E6A&&height=120&section=footer"/>
 
 
