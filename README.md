@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=394E6A&&height=120&section=header"/>
  
- <h1>Hi  👋, I'm Maria Vitória Silva</h1>
+ <h1>Hi  👋, I'm Maria Vitória</h1>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00AEFF&size=30&center=true&vCenter=true&width=1000&lines=Enthusiast+of+the+best+web+development+technologies!💜;Be+Welcome!🤩)](https://git.io/typing-svg)
 
